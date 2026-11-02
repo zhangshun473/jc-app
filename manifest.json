@@ -1,6 +1,6 @@
 {
   "name": "竞彩助手",
-  "short_name": "竞彩",
+  "short_name": "竞彩助手",
   "description": "比分、开奖、走势、模拟投注",
   "start_url": "./index.html",
   "scope": "./",
